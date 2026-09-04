@@ -1,11 +1,13 @@
 about:
-  description: Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+  description:
+  |
+    Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
   license: Apache-2.0
   homepage: https://geldata.com
   head: 8519106
   archived: false
   latestVersion: v7.0
-  collectedAt: 2026-09-04T04:21:16Z
+  collectedAt: 2026-09-04T19:26:09Z
 timeline:
   created: 2017-06-29
   lastCommit: 2025-12-24
@@ -15,8 +17,8 @@ popularity:
   watcher: 101
   fork: 452
   release: 32
-  contributor: 131
-  pullRequest: 400
+  contributor: 129
+  pullRequest: 5834
   issue: 2703
 language:
   Python: 15990134
@@ -30,10 +32,18 @@ language:
   CSS: 8319
   Makefile: 6294
   Perl: 1536
-totalLine: 18159618
+totalBytes: 18159618
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -64,3 +74,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 32
+  mergedPR: 5434
+  openPR: 78
+  closedIssue: 1833
+  openIssue: 870
+  commit: 9812
+---
+---
+
